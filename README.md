@@ -1,5 +1,5 @@
 # Tableau- SAP Sales Dashboard
-Tableau dashboard analyzing SAP sales data  (using avg. pricing) — built to expand on Tableau skills I picked up in my ITM 220 (Management Information Systems) class
+Tableau dashboard analyzing SAP sales data (using avg. pricing) — built to expand on Tableau skills I picked up in my ITM 220 (Management Information Systems) class
 
 ## What the project does
 This is a Tableau dashboard that analyzes SAP sales data. It includes:
@@ -7,7 +7,7 @@ This is a Tableau dashboard that analyzes SAP sales data. It includes:
 - A pie chart showing total sales broken down by sales organization, with an interactive filter to narrow results by round (1–6)
 
 ## Why the project is useful
-I first learned Tableau in my ITM 220  class and wanted to keep practicing outside of coursework. This project helped me get more comfortable with calculated fields, color encoding, filters, and combining multiple visuals into one clean dashboard using a real, messier dataset.
+I first learned Tableau in my ITM 220 class and wanted to keep practicing outside of coursework. This project helped me get more comfortable with calculated fields, color encoding, filters, and combining multiple visuals into one clean dashboard using a real, messier dataset.
 
 ## Skills Used
 
