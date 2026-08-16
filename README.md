@@ -1,6 +1,8 @@
 # Tableau- SAP Sales Dashboard
 Tableau dashboard analyzing SAP sales data (using avg. pricing) — built to expand on Tableau skills I picked up in my ITM 220 (Management Information Systems) class
 
+##<img width="1350" height="896" alt="Tableau Dashboard Project - Copy" src="https://github.com/user-attachments/assets/d0fab639-e2a3-44d2-afff-9e4081ec22b4" />
+
 ## What the project does
 This is a Tableau dashboard that analyzes SAP sales data. It includes:
 - A bar chart comparing average price vs. quantity sold, broken down by product type (Nut, Original, Strawberry, Blueberry Muesli) and region (NO, SO, WE)
